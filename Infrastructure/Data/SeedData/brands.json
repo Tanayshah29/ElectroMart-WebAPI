@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Name": "Apple"
+  },
+  {
+    "Id": 2,
+    "Name": "Oneplus"
+  },
+  {
+    "Id": 3,
+    "Name": "Huawei"
+  },
+  {
+    "Id": 4,
+    "Name": "JBL"
+  },
+  {
+    "Id": 5,
+    "Name": "Sony"
+  },
+  {
+    "Id": 6,
+    "Name": "Samsung"
+  },
+  {
+    "Id": 7,
+    "Name": "Bose"
+  },
+  {
+    "Id": 8,
+    "Name": "Sennheiser"
+  },
+  {
+    "Id": 9,
+    "Name": "fitbit"
+  },
+  {
+    "Id": 10,
+    "Name": "Garmin"
+  },
+  {
+    "Id": 11,
+    "Name": "Amazfit"
+  },
+  {
+    "Id": 12,
+    "Name": "Lenovo"
+  },
+  {
+    "Id": 13,
+    "Name": "Noise"
+  },
+  {
+    "Id": 14,
+    "Name": "Oppo"
+  },
+  {
+    "Id": 15,
+    "Name": "Mi"
+  }
+]

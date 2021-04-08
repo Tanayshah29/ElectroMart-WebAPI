@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "New AppleWatch Series 6 (GPS, 40mm)",
+    "Description": "Case Size:40mm, 44mm. Whats in the box: Case, Band, 1m Magnetic Charging Cable. Connectivity: LTE and UMTS,Wi-Fi 802.11b/g/n 2.4GHz, Bluetooth 5.0. Power: Up to 18 hours of battery life.",
+    "Price": 38900,
+    "PictureUrl": "images/products/sm-w1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "New Apple Watch SE (GPS, 40mm)",
+    "Description": "Case Size:40mm, 44mm. Whats in the box: Case, Band, 1m Magnetic Charging Cable. Connectivity: Wi-Fi 802.11b/g/n 2.4GHz, Bluetooth 5.0. Power: Up to 18 hours of battery life.",
+    "Price": 29900,
+    "PictureUrl": "images/products/sm-w2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Amazfit T-Rex Pro Smartwatch Fitness Watch (Meteorite Black)",
+    "Description": "The Amazfit T-Rex Pro comes with a 1.3-inch HD AMOLED always-on color screen, and the outer bezel undergoes a metal-spraying processand supports four global navigation satellite systems, a SpO2 measurement system, a heart rate monitor and a sleep monitor with 10 ATM Waterproof.",
+    "Price": 12999,
+    "PictureUrl": "images/products/sm-w3.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Samsung Galaxy Watch 3 45mm Bluetooth (Mystic Black),SM-R840NZKAINS",
+    "Description": "Circular Super amoled (360X360) , Full Color, Always On Display. Precision Rotating bezel for App Navigation, Leather Strap. Advanced Health Monitoring - Enhanced Running. nalysis, Sleep Tracking, Blood Oxygen, 120+ Home Workout Programs. Enhanced Accelerometer for Fall Detection.",
+    "Price": 27400,
+    "PictureUrl": "images/products/sm-w4.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "OPPO Smart Band Style (Black)",
+    "Description": "Continuous SpO2 Monitoring, Extra Strap free, 1.1-inch color AMOLED screen with a resolution of 126 x 294 pixels with 2.5D curved-surface scratch-resistant glass and 40 Watch face designs and 12 workout modes.",
+    "Price": 2799.00,
+    "PictureUrl": "images/products/sm-b1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Mi Smart Band 5",
+    "Description": "India?s No. 1 Fitness Band, 1.1-inch AMOLED Color Display, Magnetic Charging, 2 Weeks Battery Life, Personal Activity Intelligence (PAI), Women?s Health Tracking",
+    "Price": 2499,
+    "PictureUrl": "images/products/sm-b2.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "OnePlus Band",
+    "Description": "1.1 Inch AMOLED Display, Dual-Color Band Design, Sleep Monitoring of Blood Oxygen Saturation (SpO2), 5ATM + IP68 Water & Dust Resistant(only Android Compatible Currently)",
+    "Price": 2499,
+    "PictureUrl": "images/products/sm-b3.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Fitbit Charge 3 Fitness Activity Tracker",
+    "Description": "Get a deeper understanding of your body, your health and your progress with Fitbit charge 3. This water resistant advanced health and fitness tracker does more than count steps it tracks 24/7 heart rate, calorie burn, 15+ exercises, goal progress, sleep and more",
+    "Price": 10999,
+    "PictureUrl": "images/products/sm-b4.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Noise ColorFit 2",
+    "Description": "Noise ColorFit 2 is an all-in-one activity tracker and fitness band with smart watch features, all in a sleek, stylish package that doesn?t look out of place even on slim wrists.",
+    "Price": 1699,
+    "PictureUrl": "images/products/sm-b5.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "Garmin Forerunner 245, GPS Running Smartwatch with Advanced Dynamics, Slate Gray",
+    "Description": "This gps smart watch doesn?t just tell you where you ran. It tracks your stats, crunches the numbers and gets to know all about your performance, your running form, your training history and even your goals",
+    "Price": 28490,
+    "PictureUrl": "images/products/sm-w5.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Huawei Band 3 Pro Smart Band with Built-in GPS (Black)",
+    "Description": "Huawei band 3 pro is a high-end smart band with 50 m water resistance, color screen, full screen touch and a home button control.",
+    "Price": 2999,
+    "PictureUrl": "images/products/sm-b6.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Sennheiser Momentum True Wireless in-Ear Bluetooth Headphone with Multi-Touch Fingertip Control (Black)",
+    "Description": "Made for listeners who truly appreciate craft and attention to detail, Sennheiser Momentum headphone range demonstrates Sennheiser's ongoing obsession with every aspect of audio.",
+    "Price": 9990.00,
+    "PictureUrl": "images/products/head1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Bose SoundSport Free, True Wireless Earbuds, (Sweatproof Bluetooth Headphones for Workouts and Sports), Midnight Blue/Citron",
+    "Description": "No wires mean no limits. And Bose Sound Sport free headphones are completely wireless, so you can enjoy total freedom of movement with nothing-not even a single cord-in your way.",
+    "Price": 13990,
+    "PictureUrl": "images/products/head2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Apple AirPods with Wireless Charging Case",
+    "Description": "Dual beamforming microphones, Dual optical sensors, Motion-detecting accelerometer, Speech-detecting accelerometer",
+    "Price": 15990,
+    "PictureUrl": "images/products/head3.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "OnePlus Bullets Wireless Z Bass Edition",
+    "Description": "The Bass Edition comes equipped with Bluetooth v5.0 and is fully compatible with all smartphones. IP55 Water & Sweat Resistance",
+    "Price": 1999,
+    "PictureUrl": "images/products/head4.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Sony WI-C200 Wireless In-Ear Headphones",
+    "Description": "The WI-C200 is comfortable, versatile and practical in-ear headphones that will fit seamlessly and stylishly into your life.",
+    "Price": 1699,
+    "PictureUrl": "images/products/head5.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Sony SRS-XB12 Wireless Extra Bass Bluetooth Speaker",
+    "Description": "Compact yet powerful, the SRS-XB12 portable wireless speaker features EXTRA BASS? for deep, punchy sound and a battery life of up to 16 hours.",
+    "Price": 3499,
+    "PictureUrl": "images/products/sp-1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "JBL Flip 3 Stealth Waterproof Portable Bluetooth Speaker with Rich Deep Bass (Black), Without Mic",
+    "Description": "Enjoy surprisingly powerful, room-filling stereo sound with the JBL Flip 3 Stealth ultra-compact portable Bluetooth speaker.",
+    "Price": 5499,
+    "PictureUrl": "images/products/sp-2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Bose Home Speaker 300, with Amazon Alexa Built-in, Black",
+    "Description": "The Bose Home speaker 300 delivers room-rocking bass and 360-degree, lifelike sound in a space-saving size.",
+    "Price": 18830,
+    "PictureUrl": "images/products/sp-3.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Bose SoundLink Micro, Portable Outdoor Speaker, (Wireless Bluetooth Connectivity), Bright Orange",
+    "Description": "The Bose Sound Link Micro Bluetooth speaker delivers sound so good for a speaker its size, you?ll never leave it behind.",
+    "Price": 8272,
+    "PictureUrl": "images/products/sp-4.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 7
+  }
+]
