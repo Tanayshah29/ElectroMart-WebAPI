@@ -6,6 +6,7 @@ To run the code follow the steps:
 2) dotnet clean
 3) dotnet build
 4) dotnet run / dotnet watch run 
+5) Open browser and follow link https://localhost:5001/
 
 To try out the APIs reference the following swagger documentation:
 https://localhost:5001/swagger/index.html
